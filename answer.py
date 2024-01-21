@@ -13,6 +13,6 @@ This function is used to print the text "Hello, World!" when run.
 def add(a,b):
 
     # Write simple code to add variable a and b
-    output = a+b
+    output = a + b
 
     return output
